@@ -1,0 +1,9 @@
+server:
+   port: 9090
+   
+custom:
+     id: 12
+     name: Tarun Soni 
+
+
+                 
